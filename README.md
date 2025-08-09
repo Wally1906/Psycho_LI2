@@ -14,7 +14,7 @@ Will not do them, take a lot of time and I wanted to finish a good part untill t
 
 # Compile and run
 
-It's ugly, I know, but just use ````make```. It compiles and runs the project. It is very poor but for now it works. It is not meant to be final, it is just useful for now.
+It's ugly, I know, but just use ```make```. It compiles and runs the project. It is very poor but for now it works. It is not meant to be final, it is just useful for now.
 
 # Todo
 
